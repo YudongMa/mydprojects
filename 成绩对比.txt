@@ -1,0 +1,31 @@
+LETION 3060 :
+
+epoch 19, loss: 0.2411,tran Acc: 92.628%,time:7.438621 sec
+test Acc: 90.720%
+find best! save at checkpoint/cnn_best.pth
+epoch 20, loss: 0.2358,tran Acc: 92.812%,time:7.227529 sec
+test Acc: 90.910%
+
+epoch 32, loss: 0.1877,tran Acc: 94.190%,time:7.346514 sec
+test Acc: 91.970%
+find best! save at checkpoint/cnn_best.pth
+
+test Acc: 91.490%
+epoch 40, loss: 0.1616,tran Acc: 95.072%,time:7.028852 sec
+test Acc: 91.740%
+epoch 41, loss: 0.1609,tran Acc: 95.010%,time:6.759316 sec
+test Acc: 91.490%
+epoch 42, loss: 0.1584,tran Acc: 95.263%,time:6.713130 sec
+test Acc: 91.990%
+find best! save at checkpoint/cnn_best.pth
+
+开野兽模式，可提高 成绩 ！
+
+epoch 59, loss: 0.1292,tran Acc: 96.005%,time:7.755643 sec
+test Acc: 91.450%
+epoch 60, loss: 0.1280,tran Acc: 96.028%,time:8.027127 sec
+test Acc: 91.580%
+Finished Training
+生成提交结果文件
+
+
